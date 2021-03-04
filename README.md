@@ -14,7 +14,7 @@ Your challenge is to build out this Landing page and get it looking as close to 
 
 - **HTML** 
 - **CSS**
-- 
+
 ## Sharing your solution
 
 Click [HERE](https://huddle-landing-page-with-single-introductory-section-rosy.vercel.app) to see the solution.
